@@ -1,0 +1,15 @@
+$primary-color: #f1852d;
+$secondary-color: #111111;
+$light-orange: #f4a15d;
+$dark-orange: #dc6b0f;
+$grey: #2a2a2a;
+$black: #000000;
+
+:export {
+  primaryColor: $primary-color;
+  secondaryColor: $secondary-color;
+  lightOrange: $light-orange;
+  darkOrange: $dark-orange;
+  grey: $grey;
+  black: $black;
+}
